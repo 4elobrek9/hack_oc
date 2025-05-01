@@ -1,0 +1,12 @@
+2025-05-01 00:12:05,925 [DEBUG]: Starting new HTTPS connection (1): upload.wikimedia.org:443
+2025-05-01 00:12:06,116 [DEBUG]: https://upload.wikimedia.org:443 "GET /wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png HTTP/1.1" 200 64400
+2025-05-01 00:12:06,219 [DEBUG]: Starting new HTTPS connection (1): cdn-icons-png.flaticon.com:443
+2025-05-01 00:12:06,548 [DEBUG]: https://cdn-icons-png.flaticon.com:443 "GET /512/906/906308.png HTTP/1.1" 200 14767
+2025-05-01 00:12:06,588 [DEBUG]: Starting new HTTPS connection (1): cdn-icons-png.flaticon.com:443
+2025-05-01 00:12:06,876 [DEBUG]: https://cdn-icons-png.flaticon.com:443 "GET /512/732/732220.png HTTP/1.1" 200 13751
+2025-05-01 00:12:06,881 [DEBUG]: Starting new HTTPS connection (1): upload.wikimedia.org:443
+2025-05-01 00:12:07,052 [DEBUG]: https://upload.wikimedia.org:443 "GET /wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png HTTP/1.1" 200 45337
+2025-05-01 00:12:07,209 [DEBUG]: Starting new HTTPS connection (1): ident.me:443
+2025-05-01 00:12:07,342 [DEBUG]: https://ident.me:443 "GET / HTTP/1.1" 200 13
+2025-05-01 00:12:07,389 [DEBUG]: Starting new HTTP connection (1): api.openweathermap.org:80
+2025-05-01 00:12:07,488 [DEBUG]: http://api.openweathermap.org:80 "GET /data/2.5/weather?q=Moscow&appid=YOUR_API_KEY&units=metric&lang=ru HTTP/1.1" 401 108
